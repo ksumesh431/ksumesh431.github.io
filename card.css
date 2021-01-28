@@ -1,0 +1,33 @@
+.pic{
+   
+}
+body{
+     *
+
+    
+}
+#head{
+    color: rgb(6, 66, 90);
+}
+.firstpara{
+    /* background-image: url('sunny2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+    border:solid;
+    border-radius: 18px;
+    margin:inherit;
+    padding: 50px;
+   width: 50%;
+height: 455px;
+outline: solid;
+color: black;
+text-align:left;
+font-family: sans-serif;
+font-size:1.2vw ;
+
+
+
+
+
+}
